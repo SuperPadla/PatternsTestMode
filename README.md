@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4fr0lwm6y0f3ndgh?svg=true)](https://ci.appveyor.com/project/SuperPadla/patternstestmode)
